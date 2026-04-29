@@ -1,2 +1,2 @@
-# segmation
+# segment
 try my  task
